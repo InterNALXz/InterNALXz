@@ -2,5 +2,5 @@
 
 <br />
 <br />
-  <img align="left" alt="GIF" src="https://github.com/InterNALXz/InterNALXz/blob/main/MadeY.gif" />
+  <img align="left" alt="GIF" src="https://github.com/InterNALXz/InterNALXz/blob/main/htul.gif" />
 
