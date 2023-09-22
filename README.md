@@ -1,8 +1,3 @@
-
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
-    
-## Welcome to my world <img src="https://github.com/InterNALXz/InterNALXz" width="24px">
-
 ### Hello! I'm InterNALx a Developer from China.
 
 <a href="https://twitter.com/dhanani_brijesh">
@@ -21,5 +16,5 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
